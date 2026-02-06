@@ -8,25 +8,26 @@
 </head>
 <body>
     <header>
-        <h1>Halo, Saya [Tersia yolandia s.]</h1>
+        <h1>Halo, Saya [TEresia yolandia s.]</h1>
         <p>Junior Web Developer | Tech Enthusiast</p>
     </header>
 
     <section id="about">
         <h2>Tentang Saya</h2>
-        <p>Saya adalah seorang siswi di sekolah SMA/SMK PRESTASI PRIMA.</p>
+        <p>Saya adalah anak ketiga dari tiga bersaudara.</p>
     </section>
 
     <section id="projects">
         <h2>Projek</h2>
         <ul>
-            <li><strong>Projek A</strong> - saya adalah anak ke tiga dari tiga bersaudara.</li>
-            <li><strong>Projek B</strong> - saat sata sekolah dasar saya berada di SDN 04 CIBUBUR, lalu saat saya berada di sekolah menengah pertama saya berada di SMP ADVEN XV CIRACAS.</li>
+            <li><strong>Projek A</strong> -saat saya sd saya berada di sekolah SDN 04 CIBUBUR dan saat saya smp saya berada di SMP ADVENT XV CIRACAS.</li>
+            <li><strong>Projek B</strong> - keahlian saya.</li>
+            <li><strong>Projek B</strong> - saya memiliki keahlian merias wajah atau makeup.</li>
         </ul>
     </section>
 
     <footer>
-        <p>Kontak: <a href="mailto:teresiayolandia@123">email@anda.gmail</a></p>
+        <p>Kontak: <a href="mailto:email@anda.com">email@anda.com</a></p>
         <p><a href="https://github.com/username">GitHub</a> | <a href="#">LinkedIn</a></p>
     </footer>
 </body>
