@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Saya</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Halo, Saya [Tersia yolandia s.]</h1>
+        <p>Junior Web Developer | Tech Enthusiast</p>
+    </header>
 
+    <section id="about">
+        <h2>Tentang Saya</h2>
+        <p>Saya adalah seorang siswi di sekolah SMA/SMK PRESTASI PRIMA.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projek</h2>
+        <ul>
+            <li><strong>Projek A</strong> - saya adalah anak ke tiga dari tiga bersaudara.</li>
+            <li><strong>Projek B</strong> - saat sata sekolah dasar saya berada di SDN 04 CIBUBUR, lalu saat saya berada di sekolah menengah pertama saya berada di SMP ADVEN XV CIRACAS.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Kontak: <a href="mailto:teresiayolandia@123">email@anda.gmail</a></p>
+        <p><a href="https://github.com/username">GitHub</a> | <a href="#">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
